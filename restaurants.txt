@@ -1,0 +1,6 @@
+Hot Tomale	Mexican	25
+Cafe Masala	Indian	30
+pita pocket	fast	10
+mcdonalds	fast food	8
+menerva's	italian	15
+burger king	fast food	8
